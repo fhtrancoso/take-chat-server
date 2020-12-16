@@ -5,7 +5,7 @@ namespace Take.Chat.Business.Contract
 {
     public interface IMessageManager
     {
-        void SendMessage(MessageModel message);
+        void InsertMessage(MessageModel message);
 
         ICollection<MessageModel> GetAllMessages();
     }

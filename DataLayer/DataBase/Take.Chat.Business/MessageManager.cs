@@ -28,10 +28,9 @@ namespace Take.Chat.Business
             return list;
         }
 
-        public void SendMessage(MessageModel message)
+        public void InsertMessage(MessageModel message)
         {
             _repository.Insert(message.ToModelRepository());
-
         }
     }
 }

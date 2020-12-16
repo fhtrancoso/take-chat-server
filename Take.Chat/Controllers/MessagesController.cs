@@ -23,25 +23,6 @@ namespace Take.Chat.Controllers
             return View();
         }
 
-        [HttpPost]
-        public IActionResult SendMessage([FromBody] [Required] Message value)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
-
-            try
-            {
-                _manager.SendMessage(value.ToModel());
-                return new OkResult();
-            }
-            catch (System.Exception ex)
-            {
-                return new StatusCodeResult(StatusCodes.Status500InternalServerError);
-            }
-        }
-
         [HttpGet]
         public IActionResult GetAllMessages()
         {

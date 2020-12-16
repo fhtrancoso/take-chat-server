@@ -26,7 +26,7 @@ namespace Take.Chat
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddScoped<IMessageManager, MessageManager>();
+            services.AddTransient<IMessageManager, MessageManager>();
             services.AddScoped<IUserManager, UserManager>();
             // included this clas just to simulate a database
             services.AddSingleton<IMessageRepository, MessageRepository>();
