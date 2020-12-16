@@ -1,0 +1,12 @@
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\bin\Debug\netcoreapp2.2\Take.Chat.Business.Model.deps.json
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\bin\Debug\netcoreapp2.2\Take.Chat.Business.Model.dll
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\bin\Debug\netcoreapp2.2\Take.Chat.Business.Model.pdb
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.dll
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.pdb
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.csprojAssemblyReference.cache
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.csproj.CoreCompileInputs.cache
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.AssemblyInfoInputs.cache
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.AssemblyInfo.cs
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.csproj.CopyComplete
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.dll
+C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Business.Model\obj\Debug\netcoreapp2.2\Take.Chat.Business.Model.pdb

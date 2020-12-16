@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Take.Chat.Business.Contract/1.0.0": {
+        "dependencies": {
+          "Take.Chat.Business.Model": "1.0.0"
+        },
+        "runtime": {
+          "Take.Chat.Business.Contract.dll": {}
+        }
+      },
+      "Take.Chat.Business.Model/1.0.0": {
+        "dependencies": {
+          "Take.Chat.Repository.Model": "1.0.0"
+        },
+        "runtime": {
+          "Take.Chat.Business.Model.dll": {}
+        }
+      },
+      "Take.Chat.Repository.Model/1.0.0": {
+        "runtime": {
+          "Take.Chat.Repository.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take.Chat.Business.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Take.Chat.Business.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Take.Chat.Repository.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
