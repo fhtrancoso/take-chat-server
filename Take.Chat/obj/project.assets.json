@@ -13058,11 +13058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\Take.Chat\\Take.Chat.csproj",
+      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\Take.Chat\\Take.Chat.csproj",
       "projectName": "Take.Chat",
-      "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\Take.Chat\\Take.Chat.csproj",
+      "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\Take.Chat\\Take.Chat.csproj",
       "packagesPath": "C:\\Users\\filipeht\\.nuget\\packages\\",
-      "outputPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\Take.Chat\\obj\\",
+      "outputPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\Take.Chat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13082,17 +13082,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj"
             },
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business\\Take.Chat.Business.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business\\Take.Chat.Business.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business\\Take.Chat.Business.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business\\Take.Chat.Business.csproj"
             },
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj"
             },
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj"
             }
           }
         }

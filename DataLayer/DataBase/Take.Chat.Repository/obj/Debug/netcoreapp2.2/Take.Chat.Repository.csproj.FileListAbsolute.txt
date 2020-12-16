@@ -12,3 +12,17 @@ C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.R
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.csproj.CopyComplete
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.dll
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.deps.json
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.csprojAssemblyReference.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.csproj.CoreCompileInputs.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.AssemblyInfoInputs.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.AssemblyInfo.cs
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.csproj.CopyComplete
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository\obj\Debug\netcoreapp2.2\Take.Chat.Repository.pdb

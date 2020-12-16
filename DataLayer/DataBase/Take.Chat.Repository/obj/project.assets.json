@@ -727,11 +727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj",
+      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj",
       "projectName": "Take.Chat.Repository",
-      "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj",
+      "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository\\Take.Chat.Repository.csproj",
       "packagesPath": "C:\\Users\\filipeht\\.nuget\\packages\\",
-      "outputPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository\\obj\\",
+      "outputPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -751,8 +751,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Contract\\Take.Chat.Repository.Contract.csproj"
             }
           }
         }

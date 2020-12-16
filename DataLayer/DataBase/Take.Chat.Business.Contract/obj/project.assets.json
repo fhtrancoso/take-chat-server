@@ -727,11 +727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj",
+      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj",
       "projectName": "Take.Chat.Business.Contract",
-      "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj",
+      "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\Take.Chat.Business.Contract.csproj",
       "packagesPath": "C:\\Users\\filipeht\\.nuget\\packages\\",
-      "outputPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\obj\\",
+      "outputPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -751,8 +751,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Model\\Take.Chat.Business.Model.csproj": {
-              "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Business.Model\\Take.Chat.Business.Model.csproj"
+            "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Model\\Take.Chat.Business.Model.csproj": {
+              "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Business.Model\\Take.Chat.Business.Model.csproj"
             }
           }
         }

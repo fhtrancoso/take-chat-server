@@ -10,3 +10,15 @@ C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.R
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.csproj.CopyComplete
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.dll
 C:\Trancoso\Particular\Github\take-blip\Take.Chat\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.deps.json
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\bin\Debug\netcoreapp2.2\Take.Chat.Repository.Model.pdb
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.csprojAssemblyReference.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.csproj.CoreCompileInputs.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.AssemblyInfoInputs.cache
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.AssemblyInfo.cs
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.csproj.CopyComplete
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.dll
+C:\Trancoso\Particular\Github\take\take-chat-server\DataLayer\DataBase\Take.Chat.Repository.Contract\obj\Debug\netcoreapp2.2\Take.Chat.Repository.Contract.pdb

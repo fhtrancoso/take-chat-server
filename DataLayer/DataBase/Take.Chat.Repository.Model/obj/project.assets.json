@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\Take.Chat.Repository.Model.csproj",
+      "projectUniqueName": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\Take.Chat.Repository.Model.csproj",
       "projectName": "Take.Chat.Repository.Model",
-      "projectPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\Take.Chat.Repository.Model.csproj",
+      "projectPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\Take.Chat.Repository.Model.csproj",
       "packagesPath": "C:\\Users\\filipeht\\.nuget\\packages\\",
-      "outputPath": "C:\\Trancoso\\Particular\\Github\\take-blip\\Take.Chat\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\obj\\",
+      "outputPath": "C:\\Trancoso\\Particular\\Github\\take\\take-chat-server\\DataLayer\\DataBase\\Take.Chat.Repository.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
