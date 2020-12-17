@@ -16,6 +16,7 @@ namespace Take.Chat.Business
             _repository = repository;
         }
 
+        ///<inheritdoc/>
         public ICollection<UserModel> GetAllUsers()
         {
             // here we could use the AutoMapper package
@@ -29,6 +30,7 @@ namespace Take.Chat.Business
             return list;
         }
 
+        ///<inheritdoc/>
         public bool InsertValidUser(UserModel user)
         {
             var isValidUser = GetUserByName(user.Name) == null;
@@ -41,6 +43,7 @@ namespace Take.Chat.Business
             return isValidUser;
         }
 
+        ///<inheritdoc/>
         public UserModel GetUserByName(string name)
         {
             return _repository.GetByName(name)?.ToModel();

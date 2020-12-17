@@ -3,6 +3,10 @@ using Take.Chat.Model;
 
 namespace Take.Chat.Converters
 {
+    /// <summary>
+    /// This is is to convert the API model to the domain model and the opposite
+    /// And we have come methods to convert the websocket message on the domain models.
+    /// </summary>
     public static class MessageConverterExtensions
     {
         public const string MESSAGE_SEPARATOR_SOCKET = "|";

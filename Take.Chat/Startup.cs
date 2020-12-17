@@ -25,7 +25,7 @@ namespace Take.Chat
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
+            // I changed this scope to Transient because the Handler that calls it is a singleton.
             services.AddTransient<IMessageManager, MessageManager>();
             services.AddScoped<IUserManager, UserManager>();
             // included this clas just to simulate a database
@@ -44,13 +44,13 @@ namespace Take.Chat
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
             app.UseMvc();
 
+            // Here we add the middleare to use WebSocket
             app.UseWebSockets();
             app.MapSockets("/ws", serviceProvider.GetService<WebSocketMessageHandler>());
             app.UseStaticFiles();

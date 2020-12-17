@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Take.Chat.TakeWebSocket
 {
+    /// <summary>
+    /// A class to manager the connections of the clients. It create automatically the ID as a GUID.
+    /// </summary>
     public class ConnectionManager
     {
         private ConcurrentDictionary<string, WebSocket> _connections = new ConcurrentDictionary<string, WebSocket>();

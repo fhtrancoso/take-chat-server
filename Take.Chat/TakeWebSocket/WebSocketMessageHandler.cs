@@ -9,9 +9,12 @@ using Take.Chat.Converters;
 
 namespace Take.Chat.TakeWebSocket
 {
+    /// <summary>
+    /// Class to handle with the messages that client are sending
+    /// </summary>
     public class WebSocketMessageHandler : SocketHandler
     {
-        IMessageManager _messageManager;
+        readonly IMessageManager _messageManager;
 
         public WebSocketMessageHandler(ConnectionManager connections, IMessageManager manager) : base(connections)
         {

@@ -15,6 +15,7 @@ namespace Take.Chat.Business
             _repository = repository;
         }
 
+        ///<inheritdoc/>
         public ICollection<MessageModel> GetAllMessages()
         {
             // here we could use the AutoMapper package
@@ -28,6 +29,7 @@ namespace Take.Chat.Business
             return list;
         }
 
+        ///<inheritdoc/>
         public void InsertMessage(MessageModel message)
         {
             _repository.Insert(message.ToModelRepository());

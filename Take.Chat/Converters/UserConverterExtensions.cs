@@ -3,6 +3,9 @@ using Take.Chat.Model;
 
 namespace Take.Chat.Converters
 {
+    /// <summary>
+    /// This is is to convert the API model to the domain model and the opposite
+    /// </summary>
     public static class UserConverterExtensions
     {
         public static UserModel ToModel(this User user)
