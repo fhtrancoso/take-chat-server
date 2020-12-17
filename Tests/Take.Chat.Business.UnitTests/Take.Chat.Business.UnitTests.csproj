@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JustMock" Version="2020.3.1124.2" />
+    <PackageReference Include="nunit" Version="3.11.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataLayer\DataBase\Take.Chat.Business.Contract\Take.Chat.Business.Contract.csproj" />
+    <ProjectReference Include="..\..\DataLayer\DataBase\Take.Chat.Business\Take.Chat.Business.csproj" />
+    <ProjectReference Include="..\..\DataLayer\DataBase\Take.Chat.Repository.Contract\Take.Chat.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>
